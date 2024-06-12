@@ -1,0 +1,10 @@
+.demo{
+    text-align: center;
+}
+body{
+    background-image: url("/Day16Task/download.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
